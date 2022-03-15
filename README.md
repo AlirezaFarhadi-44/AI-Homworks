@@ -1,2 +1,2 @@
 # AI-Homworks
-Answer deep learning exercises
+Deep learning exercises
